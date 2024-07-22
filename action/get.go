@@ -5,13 +5,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Masterminds/glide/cache"
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/godep"
-	"github.com/Masterminds/glide/msg"
-	gpath "github.com/Masterminds/glide/path"
-	"github.com/Masterminds/glide/repo"
-	"github.com/Masterminds/glide/util"
+	"github.com/EriklauSense/glide/cache"
+	"github.com/EriklauSense/glide/cfg"
+	"github.com/EriklauSense/glide/godep"
+	"github.com/EriklauSense/glide/msg"
+	gpath "github.com/EriklauSense/glide/path"
+	"github.com/EriklauSense/glide/repo"
+	"github.com/EriklauSense/glide/util"
 	"github.com/Masterminds/semver"
 )
 
