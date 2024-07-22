@@ -5,7 +5,7 @@
 //
 // A glide.yaml file looks like:
 //
-//		package: github.com/Masterminds/glide
+//		package: github.com/ErikLauSense/glide
 //		imports:
 //		- package: github.com/Masterminds/cookoo
 //		- package: github.com/kylelemons/go-gypsy
@@ -21,12 +21,12 @@ package main
 import (
 	"path/filepath"
 
-	"github.com/Masterminds/glide/action"
-	"github.com/Masterminds/glide/cache"
-	"github.com/Masterminds/glide/msg"
-	gpath "github.com/Masterminds/glide/path"
-	"github.com/Masterminds/glide/repo"
-	"github.com/Masterminds/glide/util"
+	"github.com/ErikLauSense/glide/action"
+	"github.com/ErikLauSense/glide/cache"
+	"github.com/ErikLauSense/glide/msg"
+	gpath "github.com/ErikLauSense/glide/path"
+	"github.com/ErikLauSense/glide/repo"
+	"github.com/ErikLauSense/glide/util"
 
 	"github.com/urfave/cli"
 
@@ -41,9 +41,9 @@ const usage = `Vendor Package Management for your Go projects.
    Each project should have a 'glide.yaml' file in the project directory. Files
    look something like this:
 
-       package: github.com/Masterminds/glide
+       package: github.com/ErikLauSense/glide
        imports:
-       - package: github.com/Masterminds/cookoo
+       - package: github.com/ErikLauSense/cookoo
          version: 1.1.0
        - package: github.com/kylelemons/go-gypsy
          subpackages:
