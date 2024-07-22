@@ -27,7 +27,6 @@ import (
 	gpath "github.com/ErikLauSense/glide/path"
 	"github.com/ErikLauSense/glide/repo"
 	"github.com/ErikLauSense/glide/util"
-
 	"github.com/urfave/cli"
 
 	"fmt"
