@@ -3,9 +3,9 @@ package repo
 import (
 	"sync"
 
-	"github.com/Masterminds/glide/cache"
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/msg"
+	"github.com/ErikLauSense/glide/cache"
+	"github.com/ErikLauSense/glide/cfg"
+	"github.com/ErikLauSense/glide/msg"
 	"github.com/urfave/cli"
 )
 
