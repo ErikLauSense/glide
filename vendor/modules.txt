@@ -1,0 +1,39 @@
+# github.com/ErikLauSense/glide v1.0.0
+## explicit
+github.com/ErikLauSense/glide/action
+github.com/ErikLauSense/glide/cache
+github.com/ErikLauSense/glide/cfg
+github.com/ErikLauSense/glide/dependency
+github.com/ErikLauSense/glide/gb
+github.com/ErikLauSense/glide/godep
+github.com/ErikLauSense/glide/godep/strip
+github.com/ErikLauSense/glide/gom
+github.com/ErikLauSense/glide/gpm
+github.com/ErikLauSense/glide/importer
+github.com/ErikLauSense/glide/mirrors
+github.com/ErikLauSense/glide/msg
+github.com/ErikLauSense/glide/path
+github.com/ErikLauSense/glide/repo
+github.com/ErikLauSense/glide/tree
+github.com/ErikLauSense/glide/util
+# github.com/Masterminds/semver v1.5.0
+## explicit
+github.com/Masterminds/semver
+# github.com/Masterminds/vcs v1.13.3
+## explicit; go 1.17
+github.com/Masterminds/vcs
+# github.com/cpuguy83/go-md2man/v2 v2.0.4
+## explicit; go 1.11
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/mitchellh/go-homedir v1.1.0
+## explicit
+github.com/mitchellh/go-homedir
+# github.com/russross/blackfriday/v2 v2.1.0
+## explicit
+github.com/russross/blackfriday/v2
+# github.com/urfave/cli v1.22.15
+## explicit; go 1.11
+github.com/urfave/cli
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
