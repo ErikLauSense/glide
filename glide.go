@@ -34,7 +34,7 @@ import (
 	"os"
 )
 
-var version = "0.13.4-dev"
+var version = "1.0.0"
 
 const usage = `Vendor Package Management for your Go projects.
 
